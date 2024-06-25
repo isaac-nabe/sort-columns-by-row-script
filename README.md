@@ -29,6 +29,10 @@ The purpose of this script is to help organize a Google Sheets spreadsheet that 
 5. A new menu item `Custom Scripts` will appear in the menu bar.
 6. Click on `Custom Scripts` and select `Sort Columns by Row 9` to sort the columns based on the values in row 9.
 
+## Example
+See it in action ['HERE'](https://docs.google.com/spreadsheets/d/1ZEUsfEOe8h1JX81hyfxgMyQmIQcLCoMu0soPLVBVQSE/edit?usp=sharing)
+
+
 ## License
 
 This project is licensed under the MIT License.
