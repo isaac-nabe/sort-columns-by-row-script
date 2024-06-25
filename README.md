@@ -30,7 +30,8 @@ The purpose of this script is to help organize a Google Sheets spreadsheet that 
 6. Click on `Custom Scripts` and select `Sort Columns by Row 9` to sort the columns based on the values in row 9.
 
 ## Example
-See it in action ['HERE'](https://docs.google.com/spreadsheets/d/1ZEUsfEOe8h1JX81hyfxgMyQmIQcLCoMu0soPLVBVQSE/edit?usp=sharing)
+![Demo of My Project](https://github.com/isaac-nabe/sort-columns-by-row-script/raw/main/sort-columns-by-row9-example.gif)
+
 
 
 ## License
